@@ -12,6 +12,10 @@ The Commonwealth Bank Data Science Internship is designed to provide hands-on ex
 - Collaborate with cross-functional teams to solve business challenges.
 - Present findings and recommendations to stakeholders.
 
+
+![](https://github.com/Lucky-akash321/Common-Wealth-Bank-Data-Science/blob/main/cwb.png)
+
+
 ## Technologies & Tools
 Interns will gain experience with:
 - **Programming Languages:** Python, SQL, R
