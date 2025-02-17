@@ -1,5 +1,7 @@
 # Commonwealth Bank Data Science Internship
 
+![](https://github.com/Lucky-akash321/Common-Wealth-Bank-Data-Science/blob/main/cwb%20logo.jpg)
+
 ## Overview
 The Commonwealth Bank Data Science Internship is designed to provide hands-on experience in data analysis, machine learning, and business insights. Interns will work on real-world datasets, leveraging statistical and computational techniques to derive meaningful insights for the bank's strategic decision-making.
 
